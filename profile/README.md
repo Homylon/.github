@@ -22,6 +22,7 @@ The open parts, MIT licence:
 |---|---|
 | [homylon-protocol](https://github.com/Homylon/homylon-protocol) | how programs talk to the engine: PROTOCOL.md |
 | [homylon-kit-swift](https://github.com/Homylon/homylon-kit-swift) | the network layer for Swift apps, tools and agents (Apple platforms and Linux) |
+| [homylon-monitor](https://github.com/Homylon/homylon-monitor) | the Monitor for iPhone/iPad, Mac and Apple TV: shows live what the engine does, and a complete example of an app |
 
 Homylon runs at home, on a Mac, a Linux box or a Raspberry Pi. Nothing leaves the house unless you
 let an agent do it.
